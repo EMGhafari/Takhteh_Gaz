@@ -1,0 +1,13 @@
+{
+"companyName": "EM_Productions",
+"productName": "takhteh gaz",
+"dataUrl": "web build.data.unityweb",
+"asmCodeUrl": "web build.asm.code.unityweb",
+"asmMemoryUrl": "web build.asm.memory.unityweb",
+"asmFrameworkUrl": "web build.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF"
+}
